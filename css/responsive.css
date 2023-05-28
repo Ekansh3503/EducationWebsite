@@ -6,7 +6,7 @@
     .navbar {
         height: 447px;
         flex-direction: column;
-        transition: all 0.5s ease-out;
+        transition: all 0.35s ease-out;
     }
     .nav-list li a{
         color: #522424;
