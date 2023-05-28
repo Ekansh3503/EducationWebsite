@@ -39,6 +39,10 @@
     .v-class-resp {
         opacity: 0;
     }
+    
+    .form{
+        max-width: 75%;
+    }
 
     .section {
         flex-direction: column-reverse;
