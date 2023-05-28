@@ -67,4 +67,7 @@
     .paras {
         padding: 0px;
     }
+    .form-input{
+        padding: 5px 3px;
+    }
 }
