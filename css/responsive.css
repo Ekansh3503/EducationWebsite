@@ -11,6 +11,10 @@
     .nav-list li a{
         color: #522424;
     }
+    
+    .logo img {
+        width: 45%;
+    }
 
     .rightNav {
         text-align: center;
